@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+ <!-- Trees -->
+
+ <project path="device/xiaomi/apollo" name="qcomnile/android_device_xiaomi_apollo.git" remote="github" revision="wip" />
+
+ <project path="device/xiaomi/sm8250-common" name="qcomnile/android_device_xiaomi_sm8250-common.git" remote="github" revision="aosp-13" />
+
+ <project path="vendor/xiaomi/sm8250-common" name="qcomnile/android_vendor_xiaomi_sm8250-common.git" remote="github" revision="aosp-13" />
+
+ <project path="kernel/xiaomi/sm8250" name="EmmanuelCN/android_kernel_xiaomi_sm8250.git" remote="github" revision="staging" />
+
+ <project path="vendor/xiaomi/apollo" name="qcomnile/_vendor_xiaomi_apollo.git" remote="github" revision="topaz" />
+
+
+
+</manifest>
